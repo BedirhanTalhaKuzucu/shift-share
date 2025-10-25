@@ -68,7 +68,7 @@ export function InfoModal({ isOpen, onClose }: InfoModalProps) {
                         </p>
                         <p className="text-sm text-yellow-800 mt-3">
                             <strong>Haftungsausschluss:</strong> Der Betreiber übernimmt <strong>keine Verantwortung</strong> für die Nutzung dieser Plattform.
-                            Vardiyawechsel sollten weiterhin über <strong>offizielle Systeme</strong> durchgeführt werden.
+                            Schichttausch sollten weiterhin über <strong>offizielle Systeme</strong> durchgeführt werden.
                         </p>
                         <p className="text-sm text-yellow-800 mt-3">
                             Diese Plattform dient nur zu <strong>Informationszwecken</strong> und ersetzt keine offiziellen Prozesse.
