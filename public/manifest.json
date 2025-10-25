@@ -3,14 +3,14 @@
   "name": "Schicht Übertragung",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%231f2937'/><text x='96' y='140' font-size='120' text-anchor='middle' fill='white'>🕐</text></svg>",
-      "type": "image/svg+xml",
+      "src": "/schichtTausch.png",
+      "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%231f2937'/><text x='256' y='380' font-size='320' text-anchor='middle' fill='white'>🕐</text></svg>",
-      "type": "image/svg+xml",
+      "src": "/schichtTausch.png",
+      "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
     }
@@ -19,5 +19,5 @@
   "display": "standalone",
   "theme_color": "#1f2937",
   "background_color": "#ffffff",
-  "description": "Schicht Übertragung - Vardiya takas platformu"
+  "description": "Schicht Übertragung"
 }
